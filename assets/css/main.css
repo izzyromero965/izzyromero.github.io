@@ -1799,3 +1799,8 @@ body.is-preload #footer {
   height: 30rem;
   object-fit: cover;
 }
+
+.project-link {
+  font-size: 45px;
+  font-weight: 600;
+}
