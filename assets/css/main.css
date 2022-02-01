@@ -1804,3 +1804,14 @@ body.is-preload #footer {
   font-size: 45px;
   font-weight: 600;
 }
+
+.project-links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.iconn {
+  font-size: 45px;
+  padding-top: 1.7rem;
+}
